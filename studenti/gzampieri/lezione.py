@@ -1,4 +1,3 @@
-import random
-
-numero = random.randint(1, 10)
-print(numero)
+print("hello")
+print(1 + 1)
+print("1+1")
